@@ -1,0 +1,6 @@
+PÁGINA WEB - EXAMEN FINAL
+
+Abre index.html en Chrome, Edge o Firefox.
+Navega con las pestañas del menú.
+Para exportar a PDF usa el botón Imprimir / PDF.
+Los gráficos son SVG reproducidos a partir del Excel de simulación.
